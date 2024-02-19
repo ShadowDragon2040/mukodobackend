@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DnQ5o8j3nnvMZUABnFDG3kCrMURj2I5HB3m1C3VIShu1G3v4EHNNyT7vWQ2YW6p/iRVPhU0LyYTpWloiRQT7xw==",
+  "dgSpecHash": "2LAp0S0a3QRXltvUUuXuGBjhDcTtJDCQKXX7v748J/Y8YU3JKdqGAQcQn6b50XMMoKnkOSfSyqU0DE5FdCXN4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vbalázs\\Documents\\GitHub\\authApi\\WeatherForecast\\WeatherForecast.csproj",
+  "projectFilePath": "C:\\Users\\vbalázs\\Documents\\GitHub\\mukodobackend\\authApi\\WeatherForecast\\WeatherForecast.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vbalázs\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
     "C:\\Users\\vbalázs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

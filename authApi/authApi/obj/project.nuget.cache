@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lINYKDzDsrTDWomSxgKEITeMUI2ENznHG4MWunlnVr7AIQnEg6Ue/EOa0t5ee58igdz/RXSrJvd4s0fBR5RZYA==",
+  "dgSpecHash": "/mckiwr6jxl8/vYOiZmC10bEKx03YJPsjm6tTKi1ieDsF8xdLSyB8N8cAX3URTi96P+hBrxd7J8+la/2Z1xe3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vbalázs\\Documents\\GitHub\\authApi\\authApi\\authApi.csproj",
+  "projectFilePath": "C:\\Users\\vbalázs\\Documents\\GitHub\\mukodobackend\\authApi\\authApi\\authApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vbalázs\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vbalázs\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
